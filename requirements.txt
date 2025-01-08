@@ -1,0 +1,17 @@
+# Google API related libraries
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gspread
+
+# Text-to-Speech library
+gtts
+
+# Library for Raspberry Pi GPIO
+RPi.GPIO
+
+# GUI library
+tkinter
+
+# mpg library
+mpg123
