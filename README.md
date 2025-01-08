@@ -1,6 +1,6 @@
 # EVA (Exercise virtual assistant)
 
-> WARNING: this project has been deprecated
+> WARNING: this project has been deprecated  
 > WARNING: this repository may be deleted without notice
 
 Eva is a python program that uses a speaker/buzzer/raspberry pi to read google sheets data and communicate a workout plan to the listener.
