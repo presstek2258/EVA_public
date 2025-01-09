@@ -14,5 +14,5 @@ Eva is a python program that uses a speaker/buzzer/raspberry pi to read google s
 - tells the user the upcoming exercise
 - can pause timer
 - can skip a set
-- times an values set on an excel sheet
+- times any values set on an excel sheet
   - NOTE: sheet not included (might need to adjust code to use)
