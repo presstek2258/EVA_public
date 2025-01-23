@@ -1,4 +1,4 @@
-# EVA (Exercise virtual assistant)
+# EVA (Exercise virtual assistant) 
 
 > WARNING: this project has been deprecated  
 > WARNING: this repository may be deleted without notice
